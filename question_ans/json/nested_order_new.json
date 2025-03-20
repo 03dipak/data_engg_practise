@@ -1,0 +1,32 @@
+(12345,
+  {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "address": {
+      "street": "123 Main St",
+      "city": "New York",
+      "zip": "10001"
+    }
+  },
+  [
+    {
+      "product": "Laptop",
+      "details": {
+        "brand": "Apple",
+        "model": "MacBook Pro"
+      },
+      "price": 1200,
+      "quantity": 1
+    },
+    {
+      "product": "Mouse",
+      "details": {
+        "brand": "Logitech",
+        "model": "MX Master 3"
+      },
+      "price": 50,
+      "quantity": 2
+    }
+  ],
+  "2025-03-19"
+)
